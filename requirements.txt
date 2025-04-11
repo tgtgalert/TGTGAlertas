@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+tgtg-python
+requests
+supabase
